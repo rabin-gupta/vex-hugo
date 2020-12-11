@@ -40,10 +40,11 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
+  - title: Test. Measure. Decide
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Stop the guesswork, make informed decision. Constant experiments on
+      website will allow you to improve overall business and your approach to look
+      at things. '
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
