@@ -30,10 +30,11 @@ features:
     icon: tf-ion-ios-alarm-outline
     content: 'Digital business needs a fresh 360 degree approach in constantly chaining
       digital landscape. '
-  - title: Elegant Design
+  - title: Data Analytics
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: "“Data is the oil, some say the gold, of the 21st century — the raw material
+      that our economies, societies and democracies are increasingly being built on,”
+      Kaeser, Tech forum in Stockholm 2018"
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
