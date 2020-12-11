@@ -7,9 +7,9 @@ banner:
     for a long-term success. He passionately evaluates business and provides services
     in executing 360 degree digital marketing. Formulates strategy and provides solution
     to improve business with the aid of cutting edge competitive intelligence techniques.
-  image: images/watch.png
+  image: "/images/rabingupta.jpg"
   button:
-    enable: true
+    enable: false
     label: Browse All Products
     link: products
 features:
