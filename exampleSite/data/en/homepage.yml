@@ -36,19 +36,19 @@ features:
       that our economies, societies and democracies are increasingly being built on,”
       Kaeser, Tech forum in Stockholm 2018"
   - title: Test. Measure. Decide.
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-android-compass
     content: 'Stop the guesswork, make informed decision. Constant experiments on
       website will allow you to improve overall business and your approach to look
       at things. '
   right_side:
   - title: Test. Measure. Decide.
-    icon: tf-ion-android-compass
+    icon: tf-ion-ios-cart-outline
     content: 'Stop the guesswork, make informed decision. Constant experiments on
       website will allow you to improve overall business and your approach to look
       at things. '
   - title: Speaking Engagement
-    icon: tf-ion-ios-bell-outline
-    content: 'Rabin is open to speaking engagement.  '
+    icon: tf-ion-bowtie-outline
+    content: 'Invite Rabin for speaking engagement.  '
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
