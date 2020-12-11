@@ -28,7 +28,7 @@ features:
   left_side:
   - title: Digital Marketing
     icon: tf-ion-disc
-    content: 'Optimize your marketing across all the funnel -You must be Visible if your Brand is being Searched.
+    content: 'Optimize your marketing across all the funnel You must be Visible if your Brand is being Searched.
     Social Media Marketing, Search Engine Marketing are just a tip of ice-berg prepare your marketing to capture end-toend funnel. '
   - title: Data Analytics
     icon: tf-ion-arrow-graph-up-right
@@ -56,8 +56,7 @@ promo:
   enable: true
   image: images/watch.png
   title: Digital Consulting by professional , the benefit for professional Consulting
-  content: Hire an expert that is able to optimize your end-to-end funnel, inspect your entier website and provide you solution across all areas.
-  Leakage in your web-funnel is loss of revenue. Fix your funnel stop the lekage hire an expert to oversee your digital business.
+  content: 
 about_product:
   enable: true
   title: Why Choose Apple Watch
