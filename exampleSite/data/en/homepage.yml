@@ -2,20 +2,20 @@
 banner:
   enable: true
   title: Rabin Gupta | Digital Marketer
-  content: |-
-    Rabin Gupta is a Msc. Information Management from Asian Institute of Technology and Head of Partner Analysis (Partner Marketing) at Agoda. His prior experience includes key roles at Agoda (Manager E-Business Programs), Westkit Software (SEO Specialist), Redlab (Online Strategic Planner) and Tina Jewelry (System Manager – eBusiness Development).
-
-    15+ Year Experienced Digital Marketeer. Rabin blends the technology with business acumen to properly execute essential leavers of online marketing channels for a long-term success. He passionately evaluates business and provides services in executing 360 degree digital marketing. Formulates strategy and provides solution to improve business with the aid of cutting edge competitive intelligence techniques.
-
-    Specialties:
-    Search Engine Marketing
-    Pay Per Click (PPC)
-    Price Comparison Website
-    Meta Search Engine (MSE)
-    Performance Based Optimzation
-    Search Engine Optimization (SEO)
-    Online strategic planning (Web Development and Web Design Consultant)
-    Driving efficiency for companies by infusing technology and business acumen.
+  content: "Rabin Gupta is a Msc. Information Management from Asian Institute of Technology
+    and Head of Partner Analysis (Partner Marketing) at Agoda. His prior experience
+    includes key roles at Agoda (Manager E-Business Programs), Westkit Software (SEO
+    Specialist), Redlab (Online Strategic Planner) and Tina Jewelry (System Manager
+    – eBusiness Development).\n\n15+ Year Experienced Digital Marketeer. Rabin blends
+    the technology with business acumen to properly execute essential leavers of online
+    marketing channels for a long-term success. He passionately evaluates business
+    and provides services in executing 360 degree digital marketing. Formulates strategy
+    and provides solution to improve business with the aid of cutting edge competitive
+    intelligence techniques.\n\nSpecialties:\nSearch Engine Marketing, \nPay Per Click
+    (PPC), \nPrice Comparison Website, \nMeta Search Engine (MSE), \nPerformance Based
+    Optimization,\nSearch Engine Optimization (SEO),\nOnline strategic planning (Web
+    Development and Web Design Consultant),\nDriving efficiency for companies by infusing
+    technology and business acumen."
   image: "/images/rabingupta.jpg"
   button:
     enable: false
