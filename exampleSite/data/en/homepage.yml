@@ -42,17 +42,16 @@ features:
       at things. '
   right_side:
   - title: Conversion Credit Attribution
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-cash
     content: 'What is an attribution model? Aan attribution model is simply an orginzations
     business rule meant for attributing conversions to marketing channels. Analyze your overlap rate
     and assign or re-assign each funnel the credit they desrve based on your business rules. '
+  - title: Funnel Optimization
+    icon: tf-ion-ios-cart-outline
+    content: 'Invite Rabin for speaking assignments on Digital Marketing or as a panel member on various cutting edge digital topics.  '
   - title: Speaking Engagement
     icon: tf-ion-bowtie
     content: 'Invite Rabin for speaking assignments on Digital Marketing or as a panel member on various cutting edge digital topics.  '
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
 promo:
   enable: true
   image: images/watch.png
