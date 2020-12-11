@@ -23,13 +23,13 @@ banner:
     link: products
 features:
   enable: true
-  title: Our Key Offerings
+  title: Key Offerings
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
+  - title: Digital Consulting
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: 'Digital business needs a fresh 360 degree approach in constantly chaining
+      digital landscape. '
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
