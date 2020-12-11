@@ -26,10 +26,10 @@ features:
   title: Key Offerings
   image: images/watch-2.png
   left_side:
-  - title: Digital Consulting
-    icon: tf-ion-ios-alarm-outline
-    content: 'Digital business needs a fresh 360 degree approach in constantly chaining
-      digital landscape. '
+  - title: Digital Marketing
+    icon: tf-ion-disc
+    content: 'Optimize your marketing across all the funnel -"You must be Visible if your Brand is being Searched".
+    Social Media Marketing, Search Engine Marketing are just a tip of ice-berg prepare your marketing to capture end-toend funnel. '
   - title: Data Analytics
     icon: tf-ion-arrow-graph-up-right
     content: "“Data is the oil, some say the gold, of the 21st century — the raw material
@@ -43,11 +43,11 @@ features:
   right_side:
   - title: Conversion Credit Attribution
     icon: tf-ion-cash
-    content: 'What is an attribution model? Aan attribution model is simply an orginzations
-    business rule meant for attributing conversions to marketing channels. Analyze your overlap rate
+    content: 'What is an attribution model? Aa attribution model is simply an orginzations
+    business rule. It is meant for attributing conversions to marketing channels. Analyze your overlap rate
     and assign or re-assign each funnel the credit they desrve based on your business rules. '
   - title: Funnel Optimization
-    icon: tf-ion-ios-cart-outline
+    icon: tf-ion-funnel
     content: 'Invite Rabin for speaking assignments on Digital Marketing or as a panel member on various cutting edge digital topics.  '
   - title: Speaking Engagement
     icon: tf-ion-bowtie
@@ -55,8 +55,9 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
+  title: Digital Consulting by professional , the benefit for professional Consulting
+  content: Hire an expert that is able to optimize your end-to-end funnel, inspect your entier website and provide you solution across all areas.
+  Leakage in your web-funnel is loss of revenue. One broken area in a funnel is a total l,
     deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
