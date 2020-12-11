@@ -31,7 +31,7 @@ features:
     content: 'Digital business needs a fresh 360 degree approach in constantly chaining
       digital landscape. '
   - title: Data Analytics
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-arrow-graph-up-right
     content: "“Data is the oil, some say the gold, of the 21st century — the raw material
       that our economies, societies and democracies are increasingly being built on,”
       Kaeser, Tech forum in Stockholm 2018"
@@ -41,14 +41,14 @@ features:
       website will allow you to improve overall business and your approach to look
       at things. '
   right_side:
-  - title: Test. Measure. Decide.
-    icon: tf-ion-ios-cart-outline
-    content: 'Stop the guesswork, make informed decision. Constant experiments on
-      website will allow you to improve overall business and your approach to look
-      at things. '
+  - title: Conversion Credit Attribution
+    icon: tf-ion-ios-bell-outline
+    content: 'What is an attribution model? Aan attribution model is simply an orginzations
+    business rule meant for attributing conversions to marketing channels. Analyze your overlap rate
+    and assign or re-assign each funnel the credit they desrve based on your business rules. '
   - title: Speaking Engagement
     icon: tf-ion-bowtie
-    content: 'Invite Rabin for speaking engagement.  '
+    content: 'Invite Rabin for speaking assignments on Digital Marketing or as a panel member on various cutting edge digital topics.  '
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
