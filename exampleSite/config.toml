@@ -38,10 +38,6 @@ weight = 4
 URL = "/"
 name = "Home"
 weight = 1
-/*[[menu.main]] */
-/*URL = "products"*/
-/*name = "Products" */
-/*weight = 2 */
 [[menu.main]]
 URL = "blog"
 name = "Blog"
