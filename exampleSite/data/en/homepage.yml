@@ -98,14 +98,14 @@ testimonial:
   title: Review
   testimonial_item:
   - name: Person / Organization
-    designation: Designation, Organization
+    designation: designation, organization
     image: images/avater.png
     content: This place is dedicated for Testimonial. If you are happy with the work delivered plesae contact Rabin to give a good review.
   - name: Person / Organization
-    designation: Designation, Organization
+    designation: designation, organization
     image: images/avater.png
     content: This place is dedicated for Testimonial. If you are happy with the work delivered plesae contact Rabin to give a good review.
   - name: Person / Organization
-    designation: Designation, Organization
+    designation: designation, organization
     image: images/avater.png
     content: This place is dedicated for Testimonial. If you are happy with the work delivered plesae contact Rabin to give a good review.
