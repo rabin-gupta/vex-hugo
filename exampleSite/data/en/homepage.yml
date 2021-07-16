@@ -72,7 +72,7 @@ about_product:
   items:
   - image: images/showcase/watch.png
     title: Data Driven Digital Marketing.
-    content: Hello World
+    content: Data driven Digital marketing is form of marketing that will utilize all the available data within the organization. The data is then extracted and connected with one another to generate a meanigul understanding of the information flow. Once the information flow is created these data is utilized to form a strategic goals. These goal are then executed in the form of Digital 360 Marketing.
     button:
       enable: false
       label: Check Features
