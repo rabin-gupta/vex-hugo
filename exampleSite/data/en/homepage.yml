@@ -72,16 +72,14 @@ about_product:
   items:
   - image: images/showcase/watch.png
     title: Data Driven Digital Marketing.
-    content: Data driven Digital marketing is mode of marketing that will utilize all the available data in the organization. The data is then extracted and connected with another dataset to weaved the information to form a proper understanding of the information flow. Once the proper data flow is created these data is utilized to form a strategic marketing. A total 360 degree marketing with the aid of the data.
+    content: Hello World
     button:
       enable: false
       label: Check Features
       link: "#"
   - image: images/showcase/showcase-3.png
     title: Process Driven Digital Marketing.
-    content: Process driven marketing are not interconnected with the data but are rather working in silos.
-    Each process are responsible for their segments and utilize the data within itself to grow the process.
-    Once the process becomes large
+    content: Hello World
     button:
       enable: false
       label: Check Features
