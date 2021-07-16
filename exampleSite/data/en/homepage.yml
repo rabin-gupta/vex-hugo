@@ -44,7 +44,7 @@ features:
   right_side:
   - title: Conversion Credit Attribution
     icon: tf-ion-cash
-    content: 'What is an attribution model? Aa attribution model is simply an orginzations
+    content: 'What is an attribution model? An attribution model is simply an orginzations
       business rule. It is meant for attributing conversions to marketing channels.
       Analyze your overlap rate and assign or re-assign each funnel the credit they
       desrve based on your business rules. '
@@ -72,9 +72,10 @@ about_product:
   items:
   - image: images/showcase/watch.png
     title: Data Driven Digital Marketing.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    content: Data is the key to success. All organization big or small they need to leverage data to grow the business.
+    Evey organization has data being collected in various stage of their daily business. There are sales data, customer data,
+    web site visitor data, app usage data to name few. There are tons of information and these information are to be weaved into one another.
+    These data requires proper analysis and utilization to form a strategic marketing step to grow any business.
     button:
       enable: false
       label: Check Features
@@ -99,7 +100,7 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Review
   testimonial_item:
   - name: Jonathon Andrew
     designation: CEO, Themefisher
