@@ -79,7 +79,7 @@ about_product:
       link: "#"
   - image: images/showcase/showcase-3.png
     title: Process Driven Digital Marketing.
-    content: Hello World
+    content: Process driven marketing is executed in the form of goals. While the first goal is being executed the marketeer executing is aware of the next goal. This allows the marketeer to prepare for marketing goals and contine the process based marketing. It can run in silos or linear model as target based approach.
     button:
       enable: false
       label: Check Features
